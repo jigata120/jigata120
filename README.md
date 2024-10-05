@@ -96,7 +96,7 @@ In my free time:
   [GitHub Repo](https://github.com/jigata120/Ai-projects/tree/main/ChatBot-BOTv)
 
 - 📊 [**Product Calculator**](https://product-calculator-1-wu2x.onrender.com) (wait 2-5 mins for the server to start): A product data calculator that helps users estimate any numeric data and profitability in forms format.  
-  [GitHub Repo FrontEnd](https://github.com/jigata120/Product-calculator)  
+  [GitHub Repo FrontEnd](https://github.com/jigata120/Product-calculator/tree/main/client/vite-project)  
   [GitHub Repo BackEnd](https://github.com/jigata120/ProductCalc-Server)
 
 - 🎙️ [**Podtend Prototype**](https://podtend-prototype.onrender.com) (Mobile view): A prototype platform for playing youtube videos and managing them into courses.  
