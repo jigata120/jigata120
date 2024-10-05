@@ -86,9 +86,25 @@ In my free time:
 
 </p>
 
-## 🚀 Main Deplyed Projects
-- [Project 1 Name](https://github.com/yourusername/project1): A brief description of this project.
-- [Project 2 Name](https://github.com/yourusername/project2): A brief description of this project.
+## 🚀 Main Deployed Projects
+
+
+- ✨[**BoostHerShine**](https://github.com/jigata120/BoostHerShine) * *(Coming Soon)*: A startup focused on generating personalized plans for women around mental health and feminine energy.  
+  🔒 GitHub Repo *(Currently Private)*
+
+- 🤖 [**Chatbot BotV**](https://deploy-chatbot-botv.onrender.com): Mini startup chatbot application designed for automated task conversations and AI responses where you can inject the ai data knowladge immediately.  
+  [GitHub Repo](https://github.com/jigata120/Ai-projects/tree/main/ChatBot-BOTv)
+
+- 📊 [**Product Calculator**](https://product-calculator-1-wu2x.onrender.com): A product data calculator that helps users estimate any numeric data and profitability in forms format.  
+  [GitHub Repo FrontEnd](https://github.com/jigata120/Product-calculator)  
+  [GitHub Repo BackEnd](https://github.com/jigata120/ProductCalc-Server)
+
+- 🎙️ [**Podtend Prototype**](https://podtend-prototype.onrender.com): A prototype platform for playing youtube videos and managing them into courses.  
+  [GitHub Repo](https://github.com/jigata120/Web_app_4)
+
+- 🎮 [**GamerzPlace App**](https://gamerzplace-app.onrender.com) *(DB fix needed)*: A social platform for gamers to connect, share content, and engage with their community.  
+  [GitHub Repo](https://github.com/jigata120/Projects_oop/tree/master/marketplace/Marketplace)
+
 
 ## 🌱 Learning and Exploring
 - I'm currently learning AI web integration and exploring some startups ideas.
