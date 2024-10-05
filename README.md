@@ -92,14 +92,14 @@ In my free time:
 - ✨[**BoostHerShine**](https://github.com/jigata120/BoostHerShine) * *(Coming Soon)*: A startup focused on generating personalized plans for women around mental health and feminine energy.  
   🔒 GitHub Repo *(Currently Private)*
 
-- 🤖 [**Chatbot BotV**](https://deploy-chatbot-botv.onrender.com): Mini startup chatbot application designed for automated task conversations and AI responses where you can inject the ai data knowladge immediately.  
+- 🤖 [**Chatbot BotV**](https://deploy-chatbot-botv.onrender.com) (wait 1-3 mins after the first send): Mini startup chatbot application designed for automated task conversations and AI responses where you can inject the ai data knowladge immediately.  
   [GitHub Repo](https://github.com/jigata120/Ai-projects/tree/main/ChatBot-BOTv)
 
-- 📊 [**Product Calculator**](https://product-calculator-1-wu2x.onrender.com): A product data calculator that helps users estimate any numeric data and profitability in forms format.  
+- 📊 [**Product Calculator**](https://product-calculator-1-wu2x.onrender.com) (wait 2-5 mins for the server to start): A product data calculator that helps users estimate any numeric data and profitability in forms format.  
   [GitHub Repo FrontEnd](https://github.com/jigata120/Product-calculator)  
   [GitHub Repo BackEnd](https://github.com/jigata120/ProductCalc-Server)
 
-- 🎙️ [**Podtend Prototype**](https://podtend-prototype.onrender.com): A prototype platform for playing youtube videos and managing them into courses.  
+- 🎙️ [**Podtend Prototype**](https://podtend-prototype.onrender.com) (Mobile view): A prototype platform for playing youtube videos and managing them into courses.  
   [GitHub Repo](https://github.com/jigata120/Web_app_4)
 
 - 🎮 [**GamerzPlace App**](https://gamerzplace-app.onrender.com) *(DB fix needed)*: A social platform for gamers to connect, share content, and engage with their community.  
