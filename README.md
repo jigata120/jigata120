@@ -87,9 +87,10 @@ In my free time:
 </p>
 
 ## 🚀 Main Deployed Projects
+-  📊🤖[**BotV-Platform**](https://github.com/jigata120/BoostHerShine) * *(Coming Soon)*: A startup platform for seamless AI chatbot integration, offering comprehensive management of settings, data security, user permissions, and performance monitoring in one streamlined custom interface.
+    [GitHub Repo](https://github.com/jigata120/Ai-projects/tree/main/ChatBot-BOTv)
 
-
-- ✨[**BoostHerShine**](https://github.com/jigata120/BoostHerShine) * *(Coming Soon)*: A startup focused on generating personalized plans for women around mental health and feminine energy.  
+- ✨[**BoostHerShine**](https://github.com/jigata120/BoostHerShine) * *(Coming Soon)*: A startup prototype focused on generating personalized plans for women around mental health and feminine energy.  
   🔒 GitHub Repo *(Currently Private)*
 
 - 🤖 [**Chatbot BotV**](https://deploy-chatbot-botv.onrender.com) (wait 1-3 mins after the first send): Mini startup chatbot application designed for automated task conversations and AI responses where you can inject the ai data knowladge immediately.  
