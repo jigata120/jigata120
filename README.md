@@ -112,7 +112,7 @@ In my free time:
 - Exploring the latest trends in openaiAPI and deep learning.
 
 ## 🏅 Certifications
-- [All Certificates](https://website6357846.nicepage.io/)
+- [All Certificates](https://mihaelscertificates.nicepage.io/)
  
 
 ## 📫 Let's Connect
